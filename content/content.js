@@ -1,4 +1,4 @@
-const submitUrl = 'https://borang.skrin.xyz/submit';
+const submitUrl = 'https://randomstuff69.github.io/borang/submit';
 // const submitUrl = 'http://localhost:5000/submit';
 
 (function injectDiv() {
